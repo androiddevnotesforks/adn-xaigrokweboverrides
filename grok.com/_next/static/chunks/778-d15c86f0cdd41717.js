@@ -562,7 +562,7 @@
                                                 children: (0, E.$1)(eR)
                                             })]
                                         })
-                                    }, "model"), z.SHOW_SYSTEM_PROMPT_EDITOR && (0, a.jsx)(ej, {
+                                    }, "model"), (0, a.jsx)(ej, {
                                         children: (0, a.jsxs)(g.z, {
                                             className: (0, i.cn)("text-secondary font-[550]", "mode" === eU && "bg-button-text-hover text-secondary"),
                                             variant: "ghost",
@@ -573,7 +573,7 @@
                                             children: [(0, a.jsx)(X.Z, {
                                                 className: "size-6 sm:size-5"
                                             }), (0, a.jsx)("span", {
-                                                className: "text-primary",
+                                                className: "hidden sm:inline-block",
                                                 children: "Concise"
                                             })]
                                         })
